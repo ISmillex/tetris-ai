@@ -1,5 +1,7 @@
 # Tetris-AI
 
+https://github.com/ISmillex/tetris-ai/assets/72645646/1afa461c-b094-4d8e-af67-55e41ae92a33
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
